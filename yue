@@ -4,7 +4,7 @@
     "server_port": 12345,
     "password": "YfeN72wsaE5xoYt3",
     "method": "aes-256-gcm",
-    "remarks": "北京25",
+    "remarks": "北京251",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
