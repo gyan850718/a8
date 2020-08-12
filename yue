@@ -1,10 +1,10 @@
 [
   {
-    "server": "103.45.131.125",
+    "server": "103.45.131.25",
     "server_port": 12345,
     "password": "YfeN72wsaE5xoYt3",
     "method": "aes-256-gcm",
-    "remarks": "北京125",
+    "remarks": "北京25",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -15,11 +15,11 @@
     "udpdns": false
   },
   {
-    "server": "103.40.23.217",
+    "server": "103.40.23.207",
     "server_port": 12345,
     "password": "es3DeeMJdBfuwy4W",
     "method": "aes-256-gcm",
-    "remarks": "南京217",
+    "remarks": "南京207",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -30,11 +30,11 @@
     "udpdns": false
   },
   {
-    "server": "43.248.107.22",
+    "server": "43.248.107.21",
     "server_port": 12345,
     "password": "meGwUJwqzTPgS7eV",
     "method": "aes-256-gcm",
-    "remarks": "南京22",
+    "remarks": "南京21",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
