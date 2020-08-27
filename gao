@@ -1,0 +1,77 @@
+[
+  {
+    "server": "103.44.240.217",
+    "server_port": 12345,
+    "password": "qvbpaKoTimQ4A2hp",
+    "method": "aes-256-gcm",
+    "remarks": "深圳217",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.44.240.85",
+    "server_port": 12345,
+    "password": "hMbCelH85I29gZUh",
+    "method": "aes-256-gcm",
+    "remarks": "深圳85",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.40.243.208",
+    "server_port": 12345,
+    "password": "jmGbRhCNN4G238o9",
+    "method": "aes-256-gcm",
+    "remarks": "深圳208",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.40.242.77",
+    "server_port": 12345,
+    "password": "2UyTOaAj247GCqhJ",
+    "method": "aes-256-gcm",
+    "remarks": "深圳77",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.40.242.75",
+    "server_port": 12345,
+    "password": "QXDQ12qwUyHl078C",
+    "method": "aes-256-gcm",
+    "remarks": "深圳75",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  }
+]
