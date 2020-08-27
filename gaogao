@@ -1,1 +1,77 @@
-Ww0KICB7DQogICAgInNlcnZlciI6ICIxMDMuNDQuMjQwLjIxNyIsDQogICAgInNlcnZlcl9wb3J0IjogMTIzNDUsDQogICAgInBhc3N3b3JkIjogInF2YnBhS29UaW1RNEEyaHAiLA0KICAgICJtZXRob2QiOiAiYWVzLTI1Ni1nY20iLA0KICAgICJyZW1hcmtzIjogIsnu29oyMTciLA0KICAgICJyb3V0ZSI6ICJhbGwiLA0KICAgICJyZW1vdGVfZG5zIjogImRucy5nb29nbGUiLA0KICAgICJpcHY2IjogZmFsc2UsDQogICAgIm1ldGVyZWQiOiBmYWxzZSwNCiAgICAicHJveHlfYXBwcyI6IHsNCiAgICAgICJlbmFibGVkIjogZmFsc2UNCiAgICB9LA0KICAgICJ1ZHBkbnMiOiBmYWxzZQ0KICB9LA0KICB7DQogICAgInNlcnZlciI6ICIxMDMuNDQuMjQwLjg1IiwNCiAgICAic2VydmVyX3BvcnQiOiAxMjM0NSwNCiAgICAicGFzc3dvcmQiOiAiaE1iQ2VsSDg1STI5Z1pVaCIsDQogICAgIm1ldGhvZCI6ICJhZXMtMjU2LWdjbSIsDQogICAgInJlbWFya3MiOiAiye7b2jg1IiwNCiAgICAicm91dGUiOiAiYWxsIiwNCiAgICAicmVtb3RlX2RucyI6ICJkbnMuZ29vZ2xlIiwNCiAgICAiaXB2NiI6IGZhbHNlLA0KICAgICJtZXRlcmVkIjogZmFsc2UsDQogICAgInByb3h5X2FwcHMiOiB7DQogICAgICAiZW5hYmxlZCI6IGZhbHNlDQogICAgfSwNCiAgICAidWRwZG5zIjogZmFsc2UNCiAgfSwNCiAgew0KICAgICJzZXJ2ZXIiOiAiMTAzLjQwLjI0My4yMDgiLA0KICAgICJzZXJ2ZXJfcG9ydCI6IDEyMzQ1LA0KICAgICJwYXNzd29yZCI6ICJqbUdiUmhDTk40RzIzOG85IiwNCiAgICAibWV0aG9kIjogImFlcy0yNTYtZ2NtIiwNCiAgICAicmVtYXJrcyI6ICLJ7tvaMjA4IiwNCiAgICAicm91dGUiOiAiYWxsIiwNCiAgICAicmVtb3RlX2RucyI6ICJkbnMuZ29vZ2xlIiwNCiAgICAiaXB2NiI6IGZhbHNlLA0KICAgICJtZXRlcmVkIjogZmFsc2UsDQogICAgInByb3h5X2FwcHMiOiB7DQogICAgICAiZW5hYmxlZCI6IGZhbHNlDQogICAgfSwNCiAgICAidWRwZG5zIjogZmFsc2UNCiAgfSwNCiAgew0KICAgICJzZXJ2ZXIiOiAiMTAzLjQwLjI0Mi43NyIsDQogICAgInNlcnZlcl9wb3J0IjogMTIzNDUsDQogICAgInBhc3N3b3JkIjogIjJVeVRPYUFqMjQ3R0NxaEoiLA0KICAgICJtZXRob2QiOiAiYWVzLTI1Ni1nY20iLA0KICAgICJyZW1hcmtzIjogIsnu29o3NyIsDQogICAgInJvdXRlIjogImFsbCIsDQogICAgInJlbW90ZV9kbnMiOiAiZG5zLmdvb2dsZSIsDQogICAgImlwdjYiOiBmYWxzZSwNCiAgICAibWV0ZXJlZCI6IGZhbHNlLA0KICAgICJwcm94eV9hcHBzIjogew0KICAgICAgImVuYWJsZWQiOiBmYWxzZQ0KICAgIH0sDQogICAgInVkcGRucyI6IGZhbHNlDQogIH0sDQogIHsNCiAgICAic2VydmVyIjogIjEwMy40MC4yNDIuNzUiLA0KICAgICJzZXJ2ZXJfcG9ydCI6IDEyMzQ1LA0KICAgICJwYXNzd29yZCI6ICJRWERRMTJxd1V5SGwwNzhDIiwNCiAgICAibWV0aG9kIjogImFlcy0yNTYtZ2NtIiwNCiAgICAicmVtYXJrcyI6ICLJ7tvaNzUiLA0KICAgICJyb3V0ZSI6ICJhbGwiLA0KICAgICJyZW1vdGVfZG5zIjogImRucy5nb29nbGUiLA0KICAgICJpcHY2IjogZmFsc2UsDQogICAgIm1ldGVyZWQiOiBmYWxzZSwNCiAgICAicHJveHlfYXBwcyI6IHsNCiAgICAgICJlbmFibGVkIjogZmFsc2UNCiAgICB9LA0KICAgICJ1ZHBkbnMiOiBmYWxzZQ0KICB9DQpd
+[
+  {
+    "server": "103.44.240.217",
+    "server_port": 12345,
+    "password": "qvbpaKoTimQ4A2hp",
+    "method": "aes-256-gcm",
+    "remarks": "深圳217",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.44.240.85",
+    "server_port": 12345,
+    "password": "hMbCelH85I29gZUh",
+    "method": "aes-256-gcm",
+    "remarks": "深圳85",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.40.243.208",
+    "server_port": 12345,
+    "password": "jmGbRhCNN4G238o9",
+    "method": "aes-256-gcm",
+    "remarks": "深圳208",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.40.242.77",
+    "server_port": 12345,
+    "password": "2UyTOaAj247GCqhJ",
+    "method": "aes-256-gcm",
+    "remarks": "深圳77",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.40.242.75",
+    "server_port": 12345,
+    "password": "QXDQ12qwUyHl078C",
+    "method": "aes-256-gcm",
+    "remarks": "深圳75",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  }
+]
