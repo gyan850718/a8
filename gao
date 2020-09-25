@@ -1,10 +1,10 @@
 [
   {
-    "server": "103.44.240.217",
+    "server": "103.44.240.155",
     "server_port": 12345,
-    "password": "qvbpaKoTimQ4A2hp",
+    "password": "wmehElFkrtgDNZx3",
     "method": "aes-256-gcm",
-    "remarks": "深圳217",
+    "remarks": "深圳155",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -15,11 +15,11 @@
     "udpdns": false
   },
   {
-    "server": "103.44.240.85",
+    "server": "103.44.240.153",
     "server_port": 12345,
-    "password": "hMbCelH85I29gZUh",
+    "password": "Ujoki5qc76hWRrDE",
     "method": "aes-256-gcm",
-    "remarks": "深圳85",
+    "remarks": "深圳153",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -30,11 +30,11 @@
     "udpdns": false
   },
   {
-    "server": "103.40.243.208",
+    "server": "103.44.240.150",
     "server_port": 12345,
-    "password": "jmGbRhCNN4G238o9",
+    "password": "LDgXNsQQYDoQMGOG",
     "method": "aes-256-gcm",
-    "remarks": "深圳208",
+    "remarks": "深圳150",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -45,11 +45,11 @@
     "udpdns": false
   },
   {
-    "server": "103.40.242.77",
+    "server": "103.44.240.149",
     "server_port": 12345,
-    "password": "2UyTOaAj247GCqhJ",
+    "password": "OrFikNnc6e5eMCHw",
     "method": "aes-256-gcm",
-    "remarks": "深圳77",
+    "remarks": "深圳149",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -60,11 +60,11 @@
     "udpdns": false
   },
   {
-    "server": "103.40.242.75",
+    "server": "103.44.240.179",
     "server_port": 12345,
-    "password": "QXDQ12qwUyHl078C",
+    "password": "RbvcFrT98tAm81qb",
     "method": "aes-256-gcm",
-    "remarks": "深圳75",
+    "remarks": "深圳179",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
